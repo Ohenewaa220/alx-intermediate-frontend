@@ -1,0 +1,8 @@
+1. Checked Node.js version with: node -v
+2. Opened the terminal in the project directory.
+3. Attempted to install Sass version 3.7.4 using: npm install sass@3.7.4
+   → Result: Version 3.7.4 does not exist in the npm registry.
+4. Attempted to install node-sass@3.7.4
+   → Result: Version 3.7.4 not found in the npm registry.
+5. Installed the latest maintained Sass instead using: npm install sass
+6. Verified installation with: npx sass --version
